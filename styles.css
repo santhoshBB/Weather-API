@@ -1,0 +1,30 @@
+body {
+  background: #f2f8fb;
+}
+.options {
+  width: 30px;
+}
+
+#flex {
+  display: flex;
+  justify-content: center;
+}
+
+#click {
+  background: #667eea;
+}
+.card {
+  flex-basis: 30%;
+  padding: 30px;
+  text-align: center;
+  background: #3b5063;
+  box-shadow: 2px 4px 6px 2px grey;
+}
+.input {
+  padding: 17px 21px 14px 15px;
+  border-radius: 29px;
+  outline: none;
+  border: none;
+  background: #b9b9f5;
+  width: 75%;
+}
